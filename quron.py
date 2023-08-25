@@ -50,9 +50,9 @@ kirish.add(*keyboard[:-1])
 logging.basicConfig(level=logging.INFO)
 
 storage = MemoryStorage()
-API_TOKEN = '6332016043:AAE1IT0kp97Zj2T7-WCwOR1IZtFhaj-MZKY'
-admin_id = 5509036572
-# 6135585871
+API_TOKEN = '6332016043:AAFhH35dpZFsTzmffskKLLL3S3CQaW5CNvc'
+admin_id = 6135585871
+# 5509036572
 # 5698732667:AAE9HDqDxe_N9eoukqJI_5eAZxwiY6rFL6w
 bot = Bot(token=API_TOKEN, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot=bot, storage=storage)

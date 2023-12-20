@@ -1,3 +1,3 @@
 # Quron-bot
 
-For @DolunayMB
+For [@DolunayMB](https://github.com/DolunayMB)
